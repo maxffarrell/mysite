@@ -7,7 +7,7 @@ updated = "2024-06-21"
 [taxonomies]
 tags = ["Demo", "Test"]
 [extra]
-banner = "quill.png#pixels"
+banner = "banner.webp"
 toc = true
 trigger = "This page contains blackjack and hookers, and bad jokes such as this one."
 disclaimer = """
@@ -16,8 +16,24 @@ disclaimer = """
 - Don't take party escort submission position.
 - Don't interact with asbestos and moon rocks.
 """
-featured = true
 [extra.comments]
+# Long thread with image
+#
+# host = "mastodon.social"
+# user = "brownpau"
+# id = "104529877688537579"
+#
+# Thread with multiple images per post
+#
+# host = "mastodon.blaede.family"
+# user = "cassidy"
+# id = "112774854109302186"
+#
+# Post on GoToSocial
+#
+# host = "alpha.polymaths.social"
+# user = "orbitalmartian"
+# id = "01J7ETKJ19FGBDQGS1ZWZ3KEPP"
 host = "toot.community"
 user = "sungsphinx"
 id = "111789185826519979"
@@ -44,8 +60,11 @@ This is the story of a man named _Stanley_.
 
 _Stanley_ worked for a company in a big building where he was Employee `#427`.
 
+<figure>
+
 ![The Office](the-office.webp)
 <figcaption>The Office where Stanley works, it has yellow floor and beige walls</figcaption>
+</figure>
 
 Employee `#427`'s job was simple: he sat at his desk in Room `427` and he pushed buttons on a keyboard.
 

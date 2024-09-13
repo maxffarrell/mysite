@@ -42,13 +42,13 @@ taxonomies = [{ name = "tags", feed = true }]
 [extra]
 # Sets theme and browser theme color.
 # See https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name/theme-color
-primary_color = "#6480d2"
+primary_color = "#365580"
 # Same as primary_color, but with 20% opacity
-primary_color_alpha = "rgba(100, 128, 210, 0.2)"
+primary_color_alpha = "rgba(54, 85, 128, 0.2)"
 # Ditto but for the dark mode.
 # If not set regular variant will be used.
-primary_color_dark = "#6480d2"
-primary_color_dark_alpha = "rgba(100, 128, 210, 0.2)"
+primary_color_dark = "#365580"
+primary_color_dark_alpha = "rgba(54, 85, 128, 0.2)"
 # Use emoji as a favicon.
 # Only one emoji is being rendered, everything else is truncated.
 # emoji_favicon = "🦆🪶"
