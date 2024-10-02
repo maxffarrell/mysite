@@ -40,6 +40,7 @@ index_format = "elasticlunr_json"
 taxonomies = [{ name = "tags", feed = true }]
 
 [extra]
+styles=["mods.css"]
 # Sets theme and browser theme color.
 # See https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name/theme-color
 primary_color = "#365580"
