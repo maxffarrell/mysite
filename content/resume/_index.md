@@ -49,5 +49,5 @@ GPA: 92.85, SAT: 1530
 DIY, electronics, graphic design, project management, Python, R, repair, technical support, 3D modeling & printing
 
 <div class="dialog-buttons ">
-  <a class="inline-button colored outline" href="/resume.pdf" target="_blank">View PDF Version</a>
+  <a class="inline-button " href="/resume.pdf" target="_blank">View PDF Version</a>
 </div>
