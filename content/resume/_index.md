@@ -16,7 +16,7 @@ Driven undergraduate student with the ability to collaborate effectively with bo
 **Purdue University** (2021 – May 2025 Expected)  
 B.S. Integrated Business and Engineering  
 Daniels School of Business  
-GPA: 3.15 Overall, 3.30 Major
+GPA: 3.17 Overall, 3.32 Major
 
 **Stuyvesant High School** (Sept 2017 – Jun 2021)  
 NYC Specialized High School  
@@ -25,6 +25,7 @@ GPA: 92.85, SAT: 1530
 ## Projects
 
 **VIP: IoT & Edge Processing** • HW/SW Team Lead (Aug 2023 – Present)
+
 - Developing a mesh network of sensor nodes
 - Monitoring for hazardous conditions
 - Directed creation of data pipeline using local & cloud SQL databases
@@ -36,11 +37,13 @@ GPA: 92.85, SAT: 1530
 **Rockfish Custom Builders** • Construction (Summer 2024)
 
 **Breezy Point Cooperative** • Seasonal Worker (Summers 2019 – 2023)
+
 - Residential and beach cleanup for local community
 - Drove garbage trucks, operated tractor and Surf Rake
 - Variety of maintenance/laborer tasks
 
 **Computer Repair** • Self-Employed (June 2017 – Present)
+
 - Repair/replace home electronics and personal devices
 - Negotiate contracts on behalf of customers with ISPs/carriers
 
