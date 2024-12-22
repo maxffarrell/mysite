@@ -7,16 +7,14 @@ title = "Resume"
 Driven undergraduate student with the ability to collaborate effectively with both technical and non-technical stakeholders. My primary goal is to address complex challenges with scalable solutions that merge the worlds of engineering and business.
 
 **Location:** West Lafayette, IN & New York, NY  
-**Phone:** (347) 924-7298  
-**Email:** maxffarrell@gmail.com  
 **LinkedIn:** [linkedin.com/in/maxffarrell](https://linkedin.com/in/maxffarrell)
 
 ## Education
 
-**Purdue University** (2021 – May 2025 Expected)  
+**Purdue University** (Aug 2021 – Dec 2024)  
 B.S. Integrated Business and Engineering  
 Daniels School of Business  
-GPA: 3.17 Overall, 3.32 Major
+GPA: 3.11 Overall, 3.29 Major
 
 **Stuyvesant High School** (Sept 2017 – Jun 2021)  
 NYC Specialized High School  
