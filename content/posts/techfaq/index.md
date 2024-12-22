@@ -33,6 +33,10 @@ Although these have been a great solution for some people, since they are sold t
 
 {% end %}
 
+When setting up eeros, it's best to connect as many as possible to ethernet, but if this isn't possible, try to place the satellites (the eeros without wired ethernet connection) a maximum of one wall away from the gateway (the one with a wired ethernet connection).
+
+If it's unreliable, working some days but not others, and you have Spectrum, it might be best to look into switching to Verizon.
+
 ## Do I need a new computer?
 
 If your computer:
@@ -41,6 +45,8 @@ If your computer:
 - is an Intel Mac (pre-2020) with stuck keys or a broken screen
 
 it's probably best to get a new one.
+
+If you're running Windows 10, use [this app](https://aka.ms/GetPCHealthCheckApp) to see if your computer can be upgraded to Windows 11, since Windows 10 will stop receiving updates this October.
 
 If budget is a concern, take a look at Ubuntu on YouTube and see if it could work for you. Installing it is a little tricky, but it runs much faster than Windows on older computers.
 

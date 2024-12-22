@@ -6,7 +6,7 @@ title = "Resume"
 
 Driven undergraduate student with the ability to collaborate effectively with both technical and non-technical stakeholders. My primary goal is to address complex challenges with scalable solutions that merge the worlds of engineering and business.
 
-**Location:** West Lafayette, IN & New York, NY  
+**Location:** New York, NY  
 **LinkedIn:** [linkedin.com/in/maxffarrell](https://linkedin.com/in/maxffarrell)
 
 ## Education
