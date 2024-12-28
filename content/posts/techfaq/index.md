@@ -2,7 +2,7 @@
 authors = []
 title = "Tech FAQ"
 description = ""
-date = 2024-12-21
+date = 2024-12-28
 [taxonomies]
 tags = ["Tech","Tools"]
 [extra]
@@ -22,7 +22,7 @@ If you want what's called "real-time protection," where it checks your computer 
 
 If it's good in some areas of your house but not others, it's probably related to your Wi-Fi coverage. Check with [speedtest.net](https://speedtest.net)
 
-My go-to recommendation is a set of used [eeros](https://www.ebay.com/sch/i.html?_from=R40&_nkw=eero+j010001+3+pack&_sacat=0&_stpos=11697&_fcid=1&_sop=15) for around $50 
+My go-to recommendation is a set of [used eeros](https://www.ebay.com/sch/i.html?_from=R40&_nkw=eero+j010001+3+pack&_sacat=0&_stpos=11697&_fcid=1&_sop=15) for around $50
 
 {% alert(warning=true) %}
 Although these have been a great solution for some people, since they are sold through eBay, it is a good idea to:
@@ -52,7 +52,20 @@ If budget is a concern, take a look at Ubuntu on YouTube and see if it could wor
 
 ## Laptop recommendations
 
-*(as of December 2024)*
+{% alert(note=true) %}
+As of December 2024
+{% end %}
 
 - If your eyesight is a concern, go with 15" or larger (trust me!)
-- If you want the best reliability and good battery life, I recommend the MacBook Air M2 with 16GB of RAM.
+- If you want the best reliability and good battery life, I recommend the MacBook Air M2 with 16GB of RAM
+- As a rule of thumb, if you aren't sure of the differences between the MacBook Air and the Pro, you probably don't need to spend more for the Pro
+
+## Printer recommendations
+
+In general, Brother laser printers are the most reliable and work the best with cheaper third-party toner cartridges.
+
+If you print a lot of documents (black and white), the black and white printers are a lot cheaper to operate and it might be worth it to skip the color functionality.
+
+If you print a lot, the Brother Inkvestment line seems to be a good option, but they do clog up if you go a while without printing.
+
+If you print mainly photos... (researching this one!)

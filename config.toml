@@ -36,7 +36,7 @@ smart_punctuation = true
 bottom_footnotes = false
 
 [search]
-index_format = "elasticlunr_json"
+index_format = "fuse_json"
 
 taxonomies = [{ name = "tags", feed = true }]
 
@@ -52,10 +52,10 @@ accent_color_dark = "#557abe"
 # Only one emoji is being rendered, everything else is truncated.
 # emoji_favicon = "🦆🪶"
 # URL to website's issue tracker
-issues_url = "https://github.com/maxffarrell/mysite/issues"
+# issues_url = "https://github.com/maxffarrell/mysite/issues"
 # URL to website's source code
 source_url = "https://github.com/maxffarrell/mysite"
-# Additional CSS stylesheets; expects them to be in the "./static/" directory.
+# Additional CSS styles; expects them to be in the "./static/" directory.
 # If you are using Sass it will be generated there automatically.
 # stylesheets = [
 #   "YOUR_STYLE.css",
@@ -74,11 +74,54 @@ show_copy_button = true
 # Calculated using the simple math: number of words ÷ words per minute.
 show_reading_time = true
 # words_per_minute = "200"
-show_share_button = true
+show_share_button = false
+# Whether to show the backlinks button for linked articles in the article's quick actions
+show_backlinks = true
+# Whether to enable the KaTeX library for rendering LaTeX.
+# Note: This will make your page significantly heavier.
+# Instead, consider enabling it per page/section.
+# katex = true
+#
+# Whether to render table of contents on all pages.
+# Will not be rendered if page doesn't have any headings.
+# Can be set per page/section.
+# toc = true
+#
+# Whether to render inline table of contents at the top of all pages,
+# in addition to floating quick navigation buttons.
+# Can be set per page/section.
+# toc_inline = true
+#
+# Whether to use numbered (ordered) list for table of contents.
+# Can be set per page/section.
+# toc_ordered = true
+#
+# Custom separator used across the theme.
+# separator = "•"
+# Custom separator used in title tag and posts metadata.
+title_separator = "•"
+#
+# Whether to use Content Security Policy.
+# Keep in mind that although this can potentially increase security,
+# it can break some stuff, in which case you will need to set custom policy.
+# csp = [
+# 	{ directive = "font-src", domains = ["'self'"] },
+# 	{ directive = "img-src", domains = ["'self'", "https:", "data:"] },
+# 	{ directive = "media-src", domains = ["'self'", "https:"] },
+# 	{ directive = "script-src", domains = ["'self'"] },
+# 	{ directive = "style-src", domains = ["'self'", "'unsafe-inline'"] },
+# 	{ directive = "frame-src", domains = ["https://player.vimeo.com", "https://www.youtube-nocookie.com", "https://toot.community"] },
+# 	{ directive = "connect-src", domains = ["https://toot.community"] },
+# 	{ directive = "frame-ancestors", domains = ["'none'"] },
+# 	{ directive = "base-uri", domains = ["'none'"] },
+# 	{ directive = "form-action", domains = ["'none'"] }
+# ]
+
 
 [extra.nav]
 
-linkedin=true
+#linkedin=true
+
 # Whether to show Atom/RSS feed button in the nav
 show_feed = false
 #icons = true
@@ -126,13 +169,13 @@ show_powered_by = true
 #
 # These variables are also used for Mastodon verification,
 # the needed rel="me" link is set in the head based on these.
-[extra.comments]
+# [extra.comments]
 # Your Mastodon API host; instance that you have an account on.
-host = "mastodon.social"
+# host = "mastodon.social"
 # Your Mastodon username; used to determine who the original poster is.
-user = "maxffarrell"
+# user = "maxffarrell"
 # Whether to show the QR code to Mastodon post
-show_qr = true
+# show_qr = true
 
 # GoatCounter analytics; enabled only if present in config.
 #[extra.goatcounter]

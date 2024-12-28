@@ -10,6 +10,6 @@ Thanks for stopping by.
 
 ## Bio
 
-I'm currently a senior in Purdue's inaugural Integrated Business & Engineering class.
+I'm a recent graduate of Purdue's inaugural Integrated Business & Engineering program with a Bachelor of Science.
 
 I'm a builder at heart and enjoy working towards a vision with my own two hands, developing whatever skills necessary along the way.
