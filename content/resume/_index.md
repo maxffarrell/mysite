@@ -4,10 +4,9 @@ title = "Resume"
 
 ## About Me
 
-Driven undergraduate student with the ability to collaborate effectively with both technical and non-technical stakeholders. My primary goal is to address complex challenges with scalable solutions that merge the worlds of engineering and business.
+Recent graduate with an ability to collaborate effectively with both technical and non-technical stakeholders. My primary goal is to address complex challenges with scalable solutions that merge the worlds of engineering and business.
 
 **Location:** New York, NY  
-**LinkedIn:** [linkedin.com/in/maxffarrell](https://linkedin.com/in/maxffarrell)
 
 ## Education
 
@@ -22,13 +21,13 @@ GPA: 92.85, SAT: 1530
 
 ## Projects
 
-**VIP: IoT & Edge Processing** • HW/SW Team Lead (Aug 2023 – Present)
+**VIP: IoT & Edge Processing** • HW/SW Team Lead (Aug 2023 – Dec 2024)
 
-- Developing a mesh network of sensor nodes
-- Monitoring for hazardous conditions
+- Developed a mesh network of sensor nodes
+- Monitored for hazardous conditions
 - Directed creation of data pipeline using local & cloud SQL databases
-- Collaborating with ML team
-- Utilizing Arduino IDE and Shapr3D modeling, Excel for cost analysis
+- Collaborated with ML team
+- Utilized Arduino IDE and Shapr3D modeling, Excel for cost analysis
 
 ## Experience
 
@@ -37,7 +36,7 @@ GPA: 92.85, SAT: 1530
 **Breezy Point Cooperative** • Seasonal Worker (Summers 2019 – 2023)
 
 - Residential and beach cleanup for local community
-- Drove garbage trucks, operated tractor and Surf Rake
+- Drove garbage trucks, operated tractor with Surf Rake
 - Variety of maintenance/laborer tasks
 
 **Computer Repair** • Self-Employed (June 2017 – Present)
