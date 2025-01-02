@@ -2,6 +2,8 @@
 title = "Home"
 +++
 
+{{ image(url="me.jpeg", alt="Me", no_hover=true,end=true) }}
+
 # Max Farrell
 
 Hey there!

@@ -2,7 +2,7 @@
 authors = []
 title = "Tech FAQ"
 description = ""
-date = 2024-12-28
+date = 2025-01-01
 [taxonomies]
 tags = ["Tech","Tools"]
 [extra]
@@ -11,6 +11,12 @@ toc_inline = true
 featured = true
 disclaimer = "I will try my best to keep this page up to date, but please reach out if you have any questions or concerns!"
 +++
+
+## General time-saving tips
+
+**Passkeys** are a way to verify your identity using biometrics like Face ID on your phone or fingerprint readers. Way easier than a book of passwords and syncs across your devices.
+
+**Mail applications** like the Mail app on your Apple device or the new Outlook on Windows can be annoying to set up for the first time, but will save you a lot of time and frustration waiting for web interfaces to load for each separate account.
 
 ## I think I have a virus
 
