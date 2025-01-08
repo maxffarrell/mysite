@@ -7,7 +7,7 @@ date = 2024-12-21
 tags = ["Tech","Tools"]
 [extra]
 toc = false
-featured = true
+featured = false
 +++
 
 I'm primarily a Mac user, so some of these tools are Mac-specific.

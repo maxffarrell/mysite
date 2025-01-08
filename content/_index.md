@@ -2,15 +2,10 @@
 title = "Home"
 +++
 
-{{ image(url="me.jpeg", alt="Me", no_hover=true,end=true) }}
+# Bio
 
-# Max Farrell
 
-Hey there!
-
-Thanks for stopping by.
-
-## Bio
+{{ image(url="me.jpeg", alt="Me", no_hover=true,start=true) }}
 
 I'm a recent graduate of Purdue's inaugural Integrated Business & Engineering program with a Bachelor of Science.
 
