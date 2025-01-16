@@ -23,30 +23,34 @@ GPA: 92.85, SAT: 1530
 
 **VIP: IoT & Edge Processing** • HW/SW Team Lead (Aug 2023 – Dec 2024)
 
-- Developed a mesh network of sensor nodes
-- Monitored for hazardous conditions
+- Developed mesh network of sensor nodes, monitored for hazards
 - Directed creation of data pipeline using local & cloud SQL databases
-- Collaborated with ML team
 - Utilized Arduino IDE and Shapr3D modeling, Excel for cost analysis
 
 ## Experience
 
-**Rockfish Custom Builders** • Construction (Summer 2024)
+**Breezy Point Cooperative** • IT Intern (Summer 2024 & Present)
+
+- Converted physical paperwork to database entries
+- Supervised data entry team of three
+- Validated data using QA environment
+
+**Rockfish Custom Builders** • Construction (Spring 2024)
 
 **Breezy Point Cooperative** • Seasonal Worker (Summers 2019 – 2023)
 
 - Residential and beach cleanup for local community
-- Drove garbage trucks, operated tractor with Surf Rake
-- Variety of maintenance/laborer tasks
+- Drove garbage trucks and operated tractor with Surf Rake
+- Variety of maintenance & laborer tasks
 
 **Computer Repair** • Self-Employed (June 2017 – Present)
 
 - Repair/replace home electronics and personal devices
-- Negotiate contracts on behalf of customers with ISPs/carriers
+- Negotiate contracts with ISPs & carriers on behalf of customers
 
 ## Skills
 
-DIY, electronics, graphic design, project management, Python, R, repair, technical support, 3D modeling & printing
+Linux, LV electric, project management, Python, R, 3D modeling
 
 <div class="buttons centered">
   <a href="/resume.pdf" target="_blank">View PDF Version</a>
