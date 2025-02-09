@@ -44,11 +44,13 @@ Recent graduate with an ability to collaborate effectively with both technical a
 
 ## Education
 
-**Purdue University** (Aug 2021 – Dec 2024)
-B.S. Integrated Business and Engineering
+**Purdue University** (Aug 2021 – Dec 2024)  
+
+B.S. Integrated Business and Engineering  
 GPA of 3.11 Overall, 3.29 Major
 
-**Stuyvesant High School** (Sept 2017 – Jun 2021)
+**Stuyvesant High School** (Sept 2017 – Jun 2021)  
+
 92.85 GPA, 1530 SAT
 
 ## Skills
