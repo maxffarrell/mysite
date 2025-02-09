@@ -6,7 +6,7 @@ title = "Resume"
 
 Recent graduate with an ability to collaborate effectively with both technical and non-technical stakeholders. My primary goal is to address complex challenges with scalable solutions that merge the worlds of engineering and business.
 
-**Location:** New York, NY  
+**Location:** NYC
 
 ## Education
 
@@ -21,17 +21,22 @@ GPA: 92.85, SAT: 1530
 
 ## Projects
 
-**VIP: IoT & Edge Processing** • HW/SW Team Lead (Aug 2023 – Dec 2024)
+**IoT & Edge Processing** • HW/SW Team Lead (Aug 2023 – Dec 2024)
 
 - Developed mesh network of sensor nodes, monitored for hazards
 - Directed creation of data pipeline using local & cloud SQL databases
-- Utilized Arduino IDE and Shapr3D modeling, Excel for cost analysis
+- Utilized Arduino IDE and Shapr3D modeling
+
+**Data Science for Smart Cities** • Student Researcher	Jan 2022 – Apr 2022
+
+- Performed vision-based damage detection for roads in West Lafayette
+- Learned Keras to classify level of damage
 
 ## Experience
 
 **Breezy Point Cooperative** • IT Intern (Summer 2024 & Present)
 
-- Converted physical paperwork to database entries
+- Converted physical paperwork to database entries using Excel + add-ins
 - Supervised data entry team of three
 - Validated data using QA environment
 
@@ -50,8 +55,7 @@ GPA: 92.85, SAT: 1530
 
 ## Skills
 
-Linux, LV electric, project management, Python, R, 3D modeling
-
+3D Modeling, Agile, C, CLI, Java, Linux, LV electric, project management, Python, R
 <div class="buttons centered">
   <a href="/resume.pdf" target="_blank">View PDF Version</a>
 </div>
