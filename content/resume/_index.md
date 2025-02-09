@@ -27,7 +27,7 @@ GPA: 92.85, SAT: 1530
 - Directed creation of data pipeline using local & cloud SQL databases
 - Utilized Arduino IDE and Shapr3D modeling
 
-**Data Science for Smart Cities** • Student Researcher	Jan 2022 – Apr 2022
+**Data Science for Smart Cities** • Student Researcher	(Jan 2022 – Apr 2022)
 
 - Performed vision-based damage detection for roads in West Lafayette
 - Learned Keras to classify level of damage
@@ -48,7 +48,7 @@ GPA: 92.85, SAT: 1530
 - Drove garbage trucks and operated tractor with Surf Rake
 - Variety of maintenance & laborer tasks
 
-**Computer Repair** • Self-Employed (June 2017 – Present)
+**Computer Repair** • Self-Employed (Jun 2017 – Present)
 
 - Repair/replace home electronics and personal devices
 - Negotiate contracts with ISPs & carriers on behalf of customers
