@@ -8,30 +8,6 @@ Recent graduate with an ability to collaborate effectively with both technical a
 
 **Location:** NYC
 
-## Education
-
-**Purdue University** (Aug 2021 – Dec 2024)  
-B.S. Integrated Business and Engineering  
-Daniels School of Business  
-GPA: 3.11 Overall, 3.29 Major
-
-**Stuyvesant High School** (Sept 2017 – Jun 2021)  
-NYC Specialized High School  
-GPA: 92.85, SAT: 1530
-
-## Projects
-
-**IoT & Edge Processing** • HW/SW Team Lead (Aug 2023 – Dec 2024)
-
-- Developed mesh network of sensor nodes, monitored for hazards
-- Directed creation of data pipeline using local & cloud SQL databases
-- Utilized Arduino IDE and Shapr3D modeling
-
-**Data Science for Smart Cities** • Student Researcher	(Jan 2022 – Apr 2022)
-
-- Performed vision-based damage detection for roads in West Lafayette
-- Learned Keras to classify level of damage
-
 ## Experience
 
 **Breezy Point Cooperative** • IT Intern (Summer 2024 & Present)
@@ -52,6 +28,28 @@ GPA: 92.85, SAT: 1530
 
 - Repair/replace home electronics and personal devices
 - Negotiate contracts with ISPs & carriers on behalf of customers
+
+## Projects
+
+**IoT & Edge Processing** • HW/SW Team Lead (Aug 2023 – Dec 2024)
+
+- Developed mesh network of sensor nodes, monitored for hazards
+- Directed creation of data pipeline using local & cloud SQL databases
+- Utilized Arduino IDE and Shapr3D modeling
+
+**Data Science for Smart Cities** • Student Researcher (Jan 2022 – Apr 2022)
+
+- Performed vision-based damage detection for roads in West Lafayette
+- Learned Keras to classify level of damage
+
+## Education
+
+**Purdue University** (Aug 2021 – Dec 2024)
+B.S. Integrated Business and Engineering
+GPA of 3.11 Overall, 3.29 Major
+
+**Stuyvesant High School** (Sept 2017 – Jun 2021)
+92.85 GPA, 1530 SAT
 
 ## Skills
 
