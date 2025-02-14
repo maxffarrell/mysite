@@ -12,17 +12,16 @@ Recent graduate with an ability to collaborate effectively with both technical a
 
 **Breezy Point Cooperative** • IT Intern (Summer 2024 & Present)
 
-- Converted physical paperwork to database entries using Excel + add-ins
-- Supervised data entry team of three
-- Validated data using QA environment
+- Converting physical paperwork to database entries using Excel + add-ins
+- Supervising data entry team of three
+- Validating data using QA environment
+- Troubleshooting with vendors & providing technical support
+- Presenting tallies and statistics to Head of Accounting for monthly close
+- Coordinating commercial lease administration using Yardi Voyager
 
 **Rockfish Custom Builders** • Construction (Spring 2024)
 
 **Breezy Point Cooperative** • Seasonal Worker (Summers 2019 – 2023)
-
-- Residential and beach cleanup for local community
-- Drove garbage trucks and operated tractor with Surf Rake
-- Variety of maintenance & laborer tasks
 
 **Computer Repair** • Self-Employed (Jun 2017 – Present)
 
@@ -35,6 +34,7 @@ Recent graduate with an ability to collaborate effectively with both technical a
 
 - Developed mesh network of sensor nodes, monitored for hazards
 - Directed creation of data pipeline using local & cloud SQL databases
+- Coordinated development using GitHub & GH Projects (Agile)
 - Utilized Arduino IDE and Shapr3D modeling
 
 **Data Science for Smart Cities** • Student Researcher (Jan 2022 – Apr 2022)
@@ -47,11 +47,10 @@ Recent graduate with an ability to collaborate effectively with both technical a
 **Purdue University** (Aug 2021 – Dec 2024)  
 
 B.S. Integrated Business and Engineering  
-GPA of 3.11 Overall, 3.29 Major
 
 **Stuyvesant High School** (Sept 2017 – Jun 2021)  
 
-92.85 GPA, 1530 SAT
+1530 SAT
 
 ## Skills
 
