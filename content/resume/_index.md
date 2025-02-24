@@ -50,8 +50,6 @@ B.S. Integrated Business and Engineering
 
 **Stuyvesant High School** (Sept 2017 – Jun 2021)
 
-1530 SAT
-
 ## Skills
 
 3D Modeling, Agile, C, CLI, Java, Linux, LV electric, project management, Python, R
