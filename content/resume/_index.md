@@ -6,11 +6,11 @@ title = "Resume"
 
 Recent graduate with an ability to collaborate effectively with both technical and non-technical stakeholders. My primary goal is to address complex challenges with scalable solutions that merge the worlds of engineering and business.
 
-**Location:** NYC
+**Location:** Austin, TX
 
 ## Experience
 
-**Breezy Point Cooperative** • IT Intern (Summer 2024 & Present)
+**Breezy Point Cooperative** • IT Intern (Summer & Winter 2024)
 
 - Converting physical paperwork to database entries using Excel + add-ins
 - Supervising data entry team of three
@@ -44,11 +44,11 @@ Recent graduate with an ability to collaborate effectively with both technical a
 
 ## Education
 
-**Purdue University** (Aug 2021 – Dec 2024)  
+**Purdue University** (Aug 2021 – Dec 2024)
 
-B.S. Integrated Business and Engineering  
+B.S. Integrated Business and Engineering
 
-**Stuyvesant High School** (Sept 2017 – Jun 2021)  
+**Stuyvesant High School** (Sept 2017 – Jun 2021)
 
 1530 SAT
 
