@@ -10,14 +10,19 @@ Recent graduate with an ability to collaborate effectively with both technical a
 
 ## Experience
 
+**Eagle Eye Networks** • Channel Sales Engineer (Mar 2025 – Present)
+
+- Creating Networks eLearning course
+
 **Breezy Point Cooperative** • IT Intern (Summer & Winter 2024)
 
-- Converting physical paperwork to database entries using Excel + add-ins
-- Supervising data entry team of three
-- Validating data using QA environment
-- Troubleshooting with vendors & providing technical support
-- Presenting tallies and statistics to Head of Accounting for monthly close
-- Coordinating commercial lease administration using Yardi Voyager
+- Converted physical paperwork to database entries using Excel + add-ins
+- Supervised data entry team of three
+- Validated data using QA environment
+- Troubleshooted with vendors & providing technical support
+- Presented tallies and statistics to Head of Accounting for monthly close
+- Coordinated commercial lease administration using Yardi Voyager
+- Developing SvelteKit app for future consideration
 
 **Rockfish Custom Builders** • Construction (Spring 2024)
 
@@ -52,7 +57,7 @@ B.S. Integrated Business and Engineering
 
 ## Skills
 
-3D Modeling, Agile, C, CLI, Java, Linux, LV electric, project management, Python, R
+3D modeling, Agile, C, CLI, CRM, Java, Linux, LV electric, project management, Python, R, solution design
 <div class="buttons centered">
   <a href="/resume.pdf" target="_blank">View PDF Version</a>
 </div>
