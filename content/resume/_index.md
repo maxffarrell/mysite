@@ -4,24 +4,33 @@ title = "Resume"
 
 ## About Me
 
-Recent graduate with an ability to collaborate effectively with both technical and non-technical stakeholders. My primary goal is to address complex challenges with scalable solutions that merge the worlds of engineering and business.
+Sales Engineer with an ability to collaborate effectively with both technical and non-technical stakeholders. Addressing complex challenges with scalable solutions that merge the worlds of engineering and business.
 
 **Location:** Austin, TX
 
 ## Experience
 
-**Eagle Eye Networks** • Channel Sales Engineer (Mar 2025 – Present)
+**Eagle Eye Networks** • Regional Sales Engineer (May 2025 – Present)
 
-- Creating Networks eLearning course
+- Developing deep technical knowledge of products to drive revenue growth
+- Collaborating with Product team to prioritize feature requests
+- Designing systems to meet site requirements
+- Responding to RFPs and RFIs
+- Training and supporting channel partners & end users
+- Collaborating with API partners
+- Maintaining and installing internal and demo environments
+- Created Networks eLearning course
+
+**Eagle Eye Networks** • Channel Sales Engineer (Mar 2025 – Apr 2025)
 
 **Breezy Point Cooperative** • IT Intern (Summer & Winter 2024)
 
+- Coordinated commercial lease administration using Yardi Voyager
 - Converted physical paperwork to database entries using Excel + add-ins
 - Supervised data entry team of three
 - Validated data using QA environment
 - Troubleshooted with vendors & providing technical support
 - Presented tallies and statistics to Head of Accounting for monthly close
-- Coordinated commercial lease administration using Yardi Voyager
 - Developing SvelteKit app for future consideration
 
 **Rockfish Custom Builders** • Construction (Spring 2024)
@@ -31,7 +40,7 @@ Recent graduate with an ability to collaborate effectively with both technical a
 **Computer Repair** • Self-Employed (Jun 2017 – Present)
 
 - Repair/replace home electronics and personal devices
-- Negotiate contracts with ISPs & carriers on behalf of customers
+- Negotiate service contracts with ISPs & carriers on behalf of customers
 
 ## Projects
 
@@ -39,7 +48,7 @@ Recent graduate with an ability to collaborate effectively with both technical a
 
 - Developed mesh network of sensor nodes, monitored for hazards
 - Directed creation of data pipeline using local & cloud SQL databases
-- Coordinated development using GitHub & GH Projects (Agile)
+- Coordinated development using GitHub with Agile methodology
 - Utilized Arduino IDE and Shapr3D modeling
 
 **Data Science for Smart Cities** • Student Researcher (Jan 2022 – Apr 2022)
@@ -49,9 +58,7 @@ Recent graduate with an ability to collaborate effectively with both technical a
 
 ## Education
 
-**Purdue University** (Aug 2021 – Dec 2024)
-
-B.S. Integrated Business and Engineering
+**Purdue University** • B.S. Integrated Business and Engineering (Aug 2021 – Dec 2024)
 
 **Stuyvesant High School** (Sept 2017 – Jun 2021)
 
