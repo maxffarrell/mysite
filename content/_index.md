@@ -5,7 +5,7 @@ title = "Home"
 # Bio
 
 
-{{ image(url="me.jpeg", alt="Me", no_hover=true,start=true) }}
+{{ image(url="me.webp", alt="Me", no_hover=true,start=true) }}
 
 I'm currently a Regional Sales Engineer at Eagle Eye Networks, with a Bachelor of Science from Purdue's Integrated Business & Engineering program.
 
