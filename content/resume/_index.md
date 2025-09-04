@@ -10,18 +10,16 @@ Sales Engineer with an ability to collaborate effectively with both technical an
 
 ## Experience
 
-**Eagle Eye Networks** • Regional Sales Engineer (May 2025 – Present)
+**Eagle Eye Networks** • Regional Sales Engineer (March 2025 – Present)
 
 - Developing deep technical knowledge of products to drive revenue growth
 - Collaborating with Product team to prioritize feature requests
 - Designing systems to meet site requirements
 - Responding to RFPs and RFIs
-- Training and supporting channel partners & end users
+- Training and supporting resellers & end users
 - Collaborating with API partners
 - Maintaining and installing internal and demo environments
-- Created Networks eLearning course
-
-**Eagle Eye Networks** • Channel Sales Engineer (Mar 2025 – Apr 2025)
+- Advised content development for Networks eLearning course
 
 **Breezy Point Cooperative** • IT Intern (Summer & Winter 2024)
 
@@ -61,6 +59,8 @@ Sales Engineer with an ability to collaborate effectively with both technical an
 **Purdue University** • B.S. Integrated Business and Engineering (Aug 2021 – Dec 2024)
 
 **Stuyvesant High School** (Sept 2017 – Jun 2021)
+
+1530 SAT
 
 ## Skills
 
