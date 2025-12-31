@@ -10,7 +10,7 @@ Sales Engineer with an ability to collaborate effectively with both technical an
 
 ## Experience
 
-**Eagle Eye Networks** • Regional Sales Engineer (March 2025 – Present)
+**Brivo** (formerly Eagle Eye Networks) • Sales Engineer (March 2025 – Present)
 
 - Developing deep technical knowledge of products to drive revenue growth
 - Collaborating with Product team to prioritize feature requests
