@@ -2,15 +2,18 @@
 title = "Resume"
 +++
 
-## About Me
-
-Sales Engineer with an ability to collaborate effectively with both technical and non-technical stakeholders. Addressing complex challenges with scalable solutions that merge the worlds of engineering and business.
+*Addressing complex challenges with scalable solutions that merge the worlds of engineering and business.*
 
 **Location:** Austin, TX
 
 ## Experience
 
-**Brivo** (formerly Eagle Eye Networks) • Sales Engineer (March 2025 – Present)
+**Zello** • Sales Engineer (February 2026 – Present)
+- Partner with Account Executives to drive enterprise sales by conducting technical discovery sessions, delivering customized product demonstrations, and designing proof-of-concept solutions that translate Zello's push-to-talk platform capabilities into quantifiable business value for IT and C-level stakeholders
+- Architect tailored integration solutions across SSO, APIs, SDKs, MDM systems, and radio gateways, troubleshooting pre-sales technical challenges and configuring workflows that align with customer technology stacks supporting 175+ million global users
+- Serve as strategic liaison between sales and product/engineering teams, synthesizing customer feedback to inform product roadmap prioritization while enabling sales effectiveness through technical training and competitive intelligence
+
+**Brivo** (formerly Eagle Eye Networks) • Sales Engineer (March 2025 – February 2026)
 
 - Developing deep technical knowledge of products to drive revenue growth
 - Collaborating with Product team to prioritize feature requests
@@ -56,7 +59,7 @@ Sales Engineer with an ability to collaborate effectively with both technical an
 
 ## Education
 
-**Purdue University** • B.S. Integrated Business and Engineering (Aug 2021 – Dec 2024)
+**Purdue University** • B.S. Integrated Business and Engineering (2021 – 2024)
 
 **Stuyvesant High School** (Sept 2017 – Jun 2021)
 
