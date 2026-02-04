@@ -9,9 +9,11 @@ title = "Resume"
 ## Experience
 
 **Zello** • Sales Engineer (February 2026 – Present)
-- Partner with Account Executives to drive enterprise sales by conducting technical discovery sessions, delivering customized product demonstrations, and designing proof-of-concept solutions that translate Zello's push-to-talk platform capabilities into quantifiable business value for IT and C-level stakeholders
-- Architect tailored integration solutions across SSO, APIs, SDKs, MDM systems, and radio gateways, troubleshooting pre-sales technical challenges and configuring workflows that align with customer technology stacks supporting 175+ million global users
-- Serve as strategic liaison between sales and product/engineering teams, synthesizing customer feedback to inform product roadmap prioritization while enabling sales effectiveness through technical training and competitive intelligence
+- Drive enterprise sales by conducting technical discovery sessions, delivering customized product demonstrations, and designing proof-of-concept solutions that convert prospects into customers across regulated industries
+- Translate complex platform capabilities into quantifiable business value by articulating ROI, security compliance, and scalability benefits to IT decision-makers and C-level stakeholders
+- Architect integration solutions across SSO, APIs, SDKs, MDM systems, and radio gateways that align Zello's push-to-talk technology with customer workflows supporting 175+ million users
+- Troubleshoot pre-sales technical challenges and configure enterprise-grade solutions supporting 9 billion monthly messages with emphasis on reliability and security standards
+- Bridge sales and product teams by synthesizing customer feedback to inform roadmap priorities while enabling sales effectiveness through technical training and competitive intelligence
 
 **Brivo** (formerly Eagle Eye Networks) • Sales Engineer (March 2025 – February 2026)
 
