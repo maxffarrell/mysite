@@ -2,32 +2,32 @@
 title = "Resume"
 +++
 
-## About Me
-
-Sales Engineer with an ability to collaborate effectively with both technical and non-technical stakeholders. Addressing complex challenges with scalable solutions that merge the worlds of engineering and business.
+*Addressing complex challenges with scalable solutions that merge the worlds of engineering and business.*
 
 **Location:** Austin, TX
 
 ## Experience
 
-**Brivo** (formerly Eagle Eye Networks) • Sales Engineer (March 2025 – Present)
+**Zello** • Sales Engineer (February 2026 – Present)
 
-- Developing deep technical knowledge of products to drive revenue growth
-- Collaborating with Product team to prioritize feature requests
-- Designing systems to meet site requirements
-- Responding to RFPs and RFIs
-- Training and supporting resellers & end users
-- Collaborating with API partners
-- Maintaining and installing internal and demo environments
-- Advised content development for Networks eLearning course
+- Partner with Account Executives to win new business through discovery sessions, tailored demos, and proof-of-concept designs for enterprise clients.
+- Design custom solution architectures and integrations addressing SSO, API, SDK, and MDM requirements while articulating ROI and scalability to IT stakeholders.
+- Bridge field sales and product engineering by channeling customer feedback to inform the roadmap and training sales teams on competitive positioning.
 
-**Breezy Point Cooperative** • IT Intern (Summer & Winter 2024)
+**Brivo** (formerly Eagle Eye Networks) • Sales Engineer (March 2025 – February 2026)
+
+- Engaged with channel partners across the Eastern US and Canada to architect video surveillance and access control solutions. 
+- Delivered technical presentations, product demonstrations, and training, showcasing advanced AI features like gun detection, LPR, face match, and object search. 
+- Collaborated with sales teams to develop strategies and processes that drive revenue growth.
+- Responded to RFPs and RFIs with detailed technical proposals that align with customer requirements and industry standards.
+- Collaborated with API & technology partners to design integrated solutions that enhance the value proposition of Brivo's cloud-based security platform.
+- Advised content development for internal and external training courses.
+
+**Breezy Point Cooperative** • IT Associate (Summer & Winter 2024)
 
 - Coordinated commercial lease administration using Yardi Voyager
 - Converted physical paperwork to database entries using Excel + add-ins
 - Supervised data entry team of three
-- Validated data using QA environment
-- Troubleshooted with vendors & providing technical support
 - Presented tallies and statistics to Head of Accounting for monthly close
 - Developing SvelteKit app for future consideration
 
@@ -37,8 +37,8 @@ Sales Engineer with an ability to collaborate effectively with both technical an
 
 **Computer Repair** • Self-Employed (Jun 2017 – Present)
 
-- Repair/replace home electronics and personal devices
-- Negotiate service contracts with ISPs & carriers on behalf of customers
+- Repaired/replaced home electronics and personal devices
+- Negotiated service contracts with ISPs & carriers on behalf of customers
 
 ## Projects
 
@@ -56,7 +56,7 @@ Sales Engineer with an ability to collaborate effectively with both technical an
 
 ## Education
 
-**Purdue University** • B.S. Integrated Business and Engineering (Aug 2021 – Dec 2024)
+**Purdue University** • B.S. Integrated Business and Engineering (2021 – 2024)
 
 **Stuyvesant High School** (Sept 2017 – Jun 2021)
 
