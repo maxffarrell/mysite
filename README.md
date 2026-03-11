@@ -24,7 +24,7 @@ brew install zola
 
 **Linux (pre-built binary):**
 ```bash
-curl -sL https://github.com/getzola/zola/releases/download/v0.18.0/zola-v0.18.0-x86_64-unknown-linux-gnu.tar.gz | tar xz
+curl -sL https://github.com/getzola/zola/releases/download/v<version>/zola-v<version>-x86_64-unknown-linux-gnu.tar.gz | tar xz
 sudo mv zola /usr/local/bin/
 ```
 
