@@ -9,30 +9,25 @@ title = "Resume"
 ## Experience
 
 **Zello** • Sales Engineer (February 2026 – Present)
-- Drive enterprise sales by conducting technical discovery sessions, delivering customized product demonstrations, and designing proof-of-concept solutions that convert prospects into customers across regulated industries
-- Translate complex platform capabilities into quantifiable business value by articulating ROI, security compliance, and scalability benefits to IT decision-makers and C-level stakeholders
-- Architect integration solutions across SSO, APIs, SDKs, MDM systems, and radio gateways that align Zello's push-to-talk technology with customer workflows supporting 175+ million users
-- Troubleshoot pre-sales technical challenges and configure enterprise-grade solutions supporting 9 billion monthly messages with emphasis on reliability and security standards
-- Bridge sales and product teams by synthesizing customer feedback to inform roadmap priorities while enabling sales effectiveness through technical training and competitive intelligence
+
+- Partner with Account Executives to win new business through discovery sessions, tailored demos, and proof-of-concept designs for enterprise clients.
+- Design custom solution architectures and integrations addressing SSO, API, SDK, and MDM requirements while articulating ROI and scalability to IT stakeholders.
+- Bridge field sales and product engineering by channeling customer feedback to inform the roadmap and training sales teams on competitive positioning.
 
 **Brivo** (formerly Eagle Eye Networks) • Sales Engineer (March 2025 – February 2026)
 
-- Developing deep technical knowledge of products to drive revenue growth
-- Collaborating with Product team to prioritize feature requests
-- Designing systems to meet site requirements
-- Responding to RFPs and RFIs
-- Training and supporting resellers & end users
-- Collaborating with API partners
-- Maintaining and installing internal and demo environments
-- Advised content development for Networks eLearning course
+- Engaged with channel partners across the Eastern US and Canada to architect video surveillance and access control solutions. 
+- Delivered technical presentations, product demonstrations, and training, showcasing advanced AI features like gun detection, LPR, face match, and object search. 
+- Collaborated with sales teams to develop strategies and processes that drive revenue growth.
+- Responded to RFPs and RFIs with detailed technical proposals that align with customer requirements and industry standards.
+- Collaborated with API & technology partners to design integrated solutions that enhance the value proposition of Brivo's cloud-based security platform.
+- Advised content development for internal and external training courses.
 
-**Breezy Point Cooperative** • IT Intern (Summer & Winter 2024)
+**Breezy Point Cooperative** • IT Associate (Summer & Winter 2024)
 
 - Coordinated commercial lease administration using Yardi Voyager
 - Converted physical paperwork to database entries using Excel + add-ins
 - Supervised data entry team of three
-- Validated data using QA environment
-- Troubleshooted with vendors & providing technical support
 - Presented tallies and statistics to Head of Accounting for monthly close
 - Developing SvelteKit app for future consideration
 
@@ -42,8 +37,8 @@ title = "Resume"
 
 **Computer Repair** • Self-Employed (Jun 2017 – Present)
 
-- Repair/replace home electronics and personal devices
-- Negotiate service contracts with ISPs & carriers on behalf of customers
+- Repaired/replaced home electronics and personal devices
+- Negotiated service contracts with ISPs & carriers on behalf of customers
 
 ## Projects
 
