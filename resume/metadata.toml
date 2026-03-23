@@ -1,0 +1,46 @@
+language = "en"
+
+[layout]
+    awesome_color = "concrete"
+    before_section_skip = "1pt"
+    before_entry_skip = "1pt"
+    before_entry_description_skip = "1pt"
+    paper_size = "us-letter"
+
+    [layout.fonts]
+        regular_fonts = ["Helvetica Neue"]
+        header_font = "Roboto"
+
+    [layout.header]
+        header_align = "center"
+        display_profile_photo = false
+        profile_photo_radius = "0%"
+        info_font_size = "10pt"
+
+    [layout.entry]
+        display_entry_society_first = true
+        display_logo = false
+
+    [layout.footer]
+        display_page_counter = false
+        display_footer = false
+
+[inject]
+    inject_ai_prompt = false
+    inject_keywords = false
+    injected_keywords_list = []
+
+[personal]
+    first_name = "Maximillian"
+    last_name = "Farrell"
+
+    [personal.info]
+        location = "Austin, TX"
+        phone = "(737) 202-6319"
+        email = "maxffarrell@gmail.com"
+        linkedin = "maxffarrell"
+
+[lang.en]
+    header_quote = "Addressing complex challenges with scalable solutions that merge the worlds of engineering and business."
+    cv_footer = ""
+    letter_footer = ""
