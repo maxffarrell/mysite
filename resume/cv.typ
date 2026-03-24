@@ -1,9 +1,9 @@
 // Custom resume layout matching target PDF style
-#import "@preview/fontawesome:0.6.0": *
+#import "@preview/lucide:0.1.0": lucide-icon
 
 // ── Page setup ──────────────────────────────────────────────────────
 #set page(paper: "us-letter", margin: (top: 0.5in, bottom: 0.5in, left: 0.5in, right: 0.5in))
-#set text(font: "Helvetica Neue", size: 9.5pt, fill: black)
+#set text(font: "Avenir", size: 9.5pt, fill: black, weight: "regular")
 #set par(leading: 0.55em)
 
 // ── Helper functions ────────────────────────────────────────────────
@@ -16,7 +16,7 @@
   grid(
     columns: (90pt, 1fr),
     column-gutter: 12pt,
-    align(left, text(weight: "bold", tracking: 0.5pt, upper(label))),
+    align(left, text(font: "Avenir", weight: "black", tracking: 0.5pt, upper(label))),
     content,
   )
 }
@@ -69,29 +69,29 @@
 
 // ── Header ──────────────────────────────────────────────────────────
 #align(center)[
-  #text(size: 28pt, weight: "regular", tracking: 0.5pt)[Maximillian Farrell]
+  #text(font: "Lexend", size: 28pt, weight: "regular", tracking: 0.5pt)[Maximillian Farrell]
   #v(2pt)
-  #text(size: 8.5pt, style: "italic")[
+  #text(size: 8.5pt, style: "italic", weight: "light")[
     Recent graduate with an ability to collaborate effectively with both technical and non-technical stakeholders.
   ]
   #v(0pt)
-  #text(size: 8.5pt, style: "italic")[
+  #text(size: 8.5pt, style: "italic", weight: "light")[
     My primary goal is to address complex challenges with scalable solutions that merge the worlds of engineering and business.
   ]
   #v(6pt)
   #box(
-    stroke: 0.7pt + black,
-    radius: 12pt,
-    inset: (x: 14pt, y: 6pt),
+    stroke: 0.5pt + luma(140),
+    radius: 14pt,
+    inset: (x: 16pt, y: 7pt),
   )[
     #set text(size: 10pt)
-    #fa-icon("location-dot", solid: true) ATX
-    #h(12pt)
-    #fa-icon("phone", solid: true) (737) 202-6319
-    #h(12pt)
-    #fa-icon("envelope", solid: true) maxffarrell\@gmail.com
-    #h(12pt)
-    #fa-icon("linkedin") maxff.us/linkedin
+    #lucide-icon("map-pin", size: 9pt) ATX
+    #h(16pt)
+    #lucide-icon("phone", size: 9pt) (737) 202-6319
+    #h(16pt)
+    #lucide-icon("mail", size: 9pt) maxffarrell\@gmail.com
+    #h(16pt)
+    #lucide-icon("linkedin", size: 9pt) maxff.us/linkedin
   ]
 ]
 
@@ -169,6 +169,6 @@
 #grid(
   columns: (90pt, 1fr),
   column-gutter: 12pt,
-  align(left, text(weight: "bold", tracking: 0.5pt, upper("Skills"))),
+  align(left, text(font: "Avenir", weight: "black", tracking: 0.5pt, upper("Skills"))),
   [3D modeling, Agile, C, CLI, CRM, Java, Linux, LV electric, project management, Python, R, solution design],
 )
