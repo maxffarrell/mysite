@@ -10,9 +10,7 @@
 
 // Section: ALL CAPS label on left + content on right, with horizontal rule above
 #let section(label, content) = {
-  v(4pt)
-  line(length: 100%, stroke: 0.8pt + black)
-  v(2pt)
+  v(6pt)
   grid(
     columns: (90pt, 1fr),
     column-gutter: 12pt,
@@ -163,9 +161,7 @@
 ]
 
 // ── Skills ──────────────────────────────────────────────────────────
-#v(4pt)
-#line(length: 100%, stroke: 0.8pt + black)
-#v(2pt)
+#v(6pt)
 #grid(
   columns: (90pt, 1fr),
   column-gutter: 12pt,
