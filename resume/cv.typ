@@ -91,7 +91,7 @@
     #h(16pt)
     #lucide-icon("mail", size: 9pt) maxffarrell\@gmail.com
     #h(16pt)
-    #lucide-icon("linkedin", size: 9pt) maxff.us/linkedin
+    #box(baseline: -0.5pt, inset: (x: 1.5pt, y: 1pt), radius: 2pt, stroke: 0.8pt + black)[#text(size: 6.5pt, weight: "bold")[in]] maxff.us/linkedin
   ]
 ]
 
