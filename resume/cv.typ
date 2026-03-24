@@ -8,14 +8,17 @@
 
 // ── Helper functions ────────────────────────────────────────────────
 
-// Section: ALL CAPS label on left + content on right, with horizontal rule above
+// Section: ALL CAPS label on left + content on right
 #let section(label, content) = {
   v(6pt)
   grid(
     columns: (90pt, 1fr),
     column-gutter: 12pt,
-    align(left, text(font: "Avenir", weight: "black", tracking: 0.5pt, upper(label))),
-    content,
+    align(left + top, text(font: "Avenir", weight: "black", tracking: 0.5pt, upper(label))),
+    {
+      v(-2pt) // offset the first entry's v(2pt) so label aligns with first heading
+      content
+    },
   )
 }
 
