@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Try Leroa, Tredaro, and Freeweight, three apps I built on Base.">
+  <meta name="theme-color" content="#f5f1e7">
+  <title>Built on Base · Max Farrell</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header class="masthead wrap">
+    <a href="https://maxffarrell.com/">Max Farrell</a>
+    <a href="https://maxffarrell.com/projects/">All projects <span aria-hidden="true">↗</span></a>
+  </header>
+  <main class="wrap">
+    <section class="intro" aria-labelledby="title">
+      <div>
+        <h1 id="title">Built on <em>Base.</em></h1>
+        <p>I built three apps on the same foundation: one for managing rentals, one for field service, and one for running a gym. You can try each with sample data.</p>
+      </div>
+      <a class="jump" href="#base">See what they share <span aria-hidden="true">↓</span></a>
+    </section>
+
+    <div class="projects">
+      <article class="project leroa" aria-labelledby="leroa">
+        <div class="art buildings" aria-hidden="true"><i></i><i></i><i></i></div>
+        <div class="project-copy">
+          <p class="category">Property management</p>
+          <h2 id="leroa">Leroa</h2>
+          <p>Keep track of units, leases, rent, and maintenance. Tenants can check their balance and send requests from their own portal.</p>
+          <div class="links">
+            <a class="demo" href="https://leroa.173.249.220.229.nip.io/login">Try Leroa <span aria-hidden="true">↗</span></a>
+            <a href="https://github.com/maxffarrell/leroa" aria-label="Leroa source on GitHub">GitHub</a>
+          </div>
+        </div>
+      </article>
+      <article class="project tredaro" aria-labelledby="tredaro">
+        <div class="art route" aria-hidden="true"><i></i><i></i><i></i></div>
+        <div class="project-copy">
+          <p class="category">Field service</p>
+          <h2 id="tredaro">Tredaro</h2>
+          <p>Take a service call from estimate to dispatch to invoice. Customers can book online and keep track of upcoming visits.</p>
+          <div class="links">
+            <a class="demo" href="https://tredaro.173.249.220.229.nip.io/login">Try Tredaro <span aria-hidden="true">↗</span></a>
+            <a href="https://github.com/maxffarrell/tredaro" aria-label="Tredaro source on GitHub">GitHub</a>
+          </div>
+        </div>
+      </article>
+      <article class="project freeweight" aria-labelledby="freeweight">
+        <div class="art weights" aria-hidden="true"><i></i><i></i><i></i></div>
+        <div class="project-copy">
+          <p class="category">Gym management</p>
+          <h2 id="freeweight">Freeweight</h2>
+          <p>Run memberships, class schedules, and billing. Members can book a class and check in with a QR code.</p>
+          <div class="links">
+            <a class="demo" href="https://freeweight.173.249.220.229.nip.io/login">Try Freeweight <span aria-hidden="true">↗</span></a>
+            <a href="https://github.com/maxffarrell/freeweight" aria-label="Freeweight source on GitHub">GitHub</a>
+          </div>
+        </div>
+      </article>
+    </div>
+
+    <section class="foundation" id="base" aria-labelledby="base-title">
+      <div>
+        <p class="category">The shared framework</p>
+        <h2 id="base-title">Base</h2>
+      </div>
+      <p>I use Base to define what an app keeps track of, like a lease or a gym membership. It generates the lists, forms, and API routes from those definitions. Auth, search, and permissions are already there.</p>
+      <a href="https://github.com/maxffarrell/base">Read the source <span aria-hidden="true">↗</span></a>
+    </section>
+  </main>
+  <footer class="wrap footer"><a href="https://maxffarrell.com/">maxffarrell.com</a></footer>
+</body>
+</html>
