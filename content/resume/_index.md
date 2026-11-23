@@ -40,7 +40,7 @@ title = "Resume"
 
 **[gpu-search](https://github.com/maxffarrell/gpu-search)** • Local search experiment with text matching and learned query suggestions.
 
-**Open-source contributions** • shadcn-svelte, bits-ui, and kumo-svelte.
+**Open-source contributions** • [shadcn-svelte](https://github.com/huntabyte/shadcn-svelte), [bits-ui](https://github.com/huntabyte/bits-ui), and [kumo-svelte](https://github.com/maxffarrell/kumo-svelte).
 
 ## Education
 
@@ -52,7 +52,7 @@ title = "Resume"
 
 **Infrastructure & Integrations:** Linux, Cloudflare, SSO, SDK integrations
 
-**Applied AI:** LLM API integration, AI workflows, LLM evaluations (svelte-bench contributions)
+**Applied AI:** LLM API integration, AI workflows, LLM evaluations ([svelte-bench](https://github.com/khromov/svelte-bench) contributions)
 <div class="buttons centered">
   <a href="/resume.pdf" target="_blank">View PDF Version</a>
 </div>
