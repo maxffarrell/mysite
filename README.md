@@ -114,3 +114,5 @@ mysite/
 ## License
 
 Content is MIT licensed. See individual files for specific licenses.
+
+The site-level Duckquill template and search overrides are based on the pinned theme submodule and are covered by [its MIT license](DUCKQUILL-LICENSE.txt).

@@ -2,7 +2,7 @@
 title = "Resume"
 +++
 
-*Addressing complex challenges with scalable solutions that merge the worlds of engineering and business.*
+*Sales engineer combining technical discovery, solution design, and hands-on development across enterprise SaaS, cloud integrations, and LLM applications.*
 
 **Location:** Austin, TX
 
@@ -10,61 +10,49 @@ title = "Resume"
 
 **Zello** • Sales Engineer (February 2026 – Present)
 
-- Partner with Account Executives to win new business through discovery sessions, tailored demos, and proof-of-concept designs for enterprise clients.
-- Design custom solution architectures and integrations addressing SSO, API, SDK, and MDM requirements while articulating ROI and scalability to IT stakeholders.
-- Bridge field sales and product engineering by channeling customer feedback to inform the roadmap and training sales teams on competitive positioning.
+- Partner with Account Executives on technical discovery, tailored demonstrations, and proof-of-concept designs for a cloud communications platform.
+- Design solution architectures and integrations around SSO, APIs, SDKs, and mobile device management; explain ROI and scalability to customer IT teams.
+- Work directly with and onboard teams from Fortune 10 companies onto Zello.
+- Translate field feedback into product requirements and train sales teams on technical capabilities and competitive positioning.
 
-**Brivo** (formerly Eagle Eye Networks) • Sales Engineer (March 2025 – February 2026)
+**Brivo** • Sales Engineer (March 2025 – February 2026)
 
-- Engaged with channel partners across the Eastern US and Canada to architect video surveillance and access control solutions. 
-- Delivered technical presentations, product demonstrations, and training, showcasing advanced AI features like gun detection, LPR, face match, and object search. 
-- Collaborated with sales teams to develop strategies and processes that drive revenue growth.
-- Responded to RFPs and RFIs with detailed technical proposals that align with customer requirements and industry standards.
-- Collaborated with API & technology partners to design integrated solutions that enhance the value proposition of Brivo's cloud-based security platform.
-- Advised content development for internal and external training courses.
+- Designed cloud video surveillance solutions and prepared bills of materials (BOMs) with channel partners across the Eastern US and Canada.
+- Delivered demos and training on AI video analytics, including license plate recognition, face matching, and object search, emphasizing competitive differentiation.
+- Supported technical validation and RFP/RFI responses, working with API and technology partners on integrated solutions.
+- Coordinated technical escalation resolution and rollout planning with partners and internal teams.
 
-**Breezy Point Cooperative** • IT Associate (Summer & Winter 2024)
+**Breezy Point Cooperative** • Technical Analyst (May 2024 – February 2025)
 
-- Coordinated commercial lease administration using Yardi Voyager
-- Converted physical paperwork to database entries using Excel + add-ins
-- Supervised data entry team of three
-- Presented tallies and statistics to Head of Accounting for monthly close
-- Developing SvelteKit app for future consideration
+- Supported commercial lease administration in Yardi Voyager, digitized records with Excel, and supervised a three-person data entry team.
+- Prepared month-end reporting for the Head of Accounting.
 
-**Rockfish Custom Builders** • Construction (Spring 2024)
+**Frank Tech, LLC** • Founder (part-time) (June 2017 – Present)
 
-**Breezy Point Cooperative** • Seasonal Worker (Summers 2019 – 2023)
-
-**Computer Repair** • Self-Employed (Jun 2017 – Present)
-
-- Repaired/replaced home electronics and personal devices
-- Negotiated service contracts with ISPs & carriers on behalf of customers
+- Repair and replace home electronics and personal devices.
+- Negotiate ISP and mobile carrier service contracts on customers’ behalf.
 
 ## Projects
 
-**IoT & Edge Processing** • HW/SW Team Lead (Aug 2023 – Dec 2024)
+**Purdue IoT Safety Monitoring** • Team lead for a sensor-mesh safety project; developed hazard-monitoring nodes and directed a local/cloud SQL data pipeline.
 
-- Developed mesh network of sensor nodes, monitored for hazards
-- Directed creation of data pipeline using local & cloud SQL databases
-- Coordinated development using GitHub with Agile methodology
-- Utilized Arduino IDE and Shapr3D modeling
+**[wxcn](https://github.com/maxffarrell/wxcn)** • Open-source weather, moon, and tide components for Svelte, React, and Vue.
 
-**Data Science for Smart Cities** • Student Researcher (Jan 2022 – Apr 2022)
+**[gpu-search](https://github.com/maxffarrell/gpu-search)** • Local search experiment with text matching and learned query suggestions.
 
-- Performed vision-based damage detection for roads in West Lafayette
-- Learned Keras to classify level of damage
+**Open-source contributions** • [shadcn-svelte](https://github.com/huntabyte/shadcn-svelte), [bits-ui](https://github.com/huntabyte/bits-ui), and [kumo-svelte](https://github.com/maxffarrell/kumo-svelte).
 
 ## Education
 
-**Purdue University** • B.S. Integrated Business and Engineering (2021 – 2024)
-
-**Stuyvesant High School** (Sept 2017 – Jun 2021)
-
-1530 SAT
+**Purdue University** • B.S., Integrated Business and Engineering
 
 ## Skills
 
-3D modeling, Agile, C, CLI, CRM, Java, Linux, LV electric, project management, Python, R, solution design
+**Development:** TypeScript, Python, SQL, SvelteKit, REST APIs, Git, GitHub Actions
+
+**Infrastructure & Integrations:** Linux, Cloudflare, SSO, SDK integrations
+
+**Applied AI:** LLM API integration, AI workflows, LLM evaluations ([svelte-bench](https://github.com/khromov/svelte-bench) contributions)
 <div class="buttons centered">
   <a href="/resume.pdf" target="_blank">View PDF Version</a>
 </div>
